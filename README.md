@@ -26,43 +26,58 @@ __Sample I/O__
 Below is a sample run of the program. User input is prefixed with enter command:
 
 enter command: C 20 4
-----------------------
-|                    |
-|                    |
-|                    |
-|                    |
-----------------------
+
+    ----------------------
+    |                    |
+    |                    |
+    |                    |
+    |                    |
+    ----------------------
+
+  
 
 enter command: L 1 2 6 2
-----------------------
-|                    |
-|xxxxxx              |
-|                    |
-|                    |
-----------------------
+
+    ----------------------
+    |                    |
+    |xxxxxx              |
+    |                    |
+    |                    |
+    ----------------------
+
+  
 
 enter command: L 6 3 6 4
-----------------------
-|                    |
-|xxxxxx              |
-|     x              |
-|     x              |
-----------------------
+
+    ----------------------
+    |                    |
+    |xxxxxx              |
+    |     x              |
+    |     x              |
+    ----------------------
+
+  
 
 enter command: R 14 1 18 3
-----------------------
-|             xxxxx  |
-|xxxxxx       x   x  |
-|     x       xxxxx  |
-|     x              |
-----------------------
+
+    ----------------------
+    |              xxxxx |
+    |xxxxxx        x   x |
+    |     x        xxxxx |
+    |     x              |
+    ----------------------
+
+  
 
 enter command: B 10 3 o
-----------------------
-|oooooooooooooxxxxxoo|
-|xxxxxxooooooox   xoo|
-|     xoooooooxxxxxoo|
-|     xoooooooooooooo|
-----------------------
+
+    ----------------------
+    |oooooooooooooxxxxxoo|
+    |xxxxxxooooooox   xoo|
+    |     xoooooooxxxxxoo|
+    |     xoooooooooooooo|
+    ----------------------
+
+  
 
 enter command: Q
